@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="csokmen.tabris.app0001" version="1.0.0">
+  <name>FirstTabris</name>
+  <description>
+    My first Tabris.js application.
+  </description>
+  <author email="csokmen@gmail.com" href="https://tabrisjs.com">
+    csokmen
+  </author>
+</widget>
