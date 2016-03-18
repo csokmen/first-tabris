@@ -1,0 +1,8 @@
+{
+  "title": "First Tabris",
+  "category": "Sample",
+  "description": "Sample tabris app",
+  "dependencies": {
+    "tabris": "^1.7.0"
+  }
+}
