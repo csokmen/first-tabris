@@ -3,6 +3,6 @@
   "category": "Sample",
   "description": "Sample tabris app",
   "dependencies": {
-    "tabris": "^1.7.0"
+    "tabris": "1.6.0"
   }
 }
